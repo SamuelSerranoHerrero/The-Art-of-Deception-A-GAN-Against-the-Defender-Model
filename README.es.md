@@ -48,11 +48,10 @@ El proyecto se estructura en varias fases:
 
 ## 🧾 Contenido del Repositorio
 
-- `data_preprocessing.py`: Carga y preprocesamiento del dataset.
 - `Classsifier_model.ipynb`: Carga y preprocesamiento del dataset con el entrenamiento del clasificador binario inicial.
 - `gan_model.ipynb`: Bucle de entrenamiento personalizado de la GAN.
-- `model_comparison.py`: Comparación de modelos: el clasificador inicial y el clasificador reentrenado.
-- `graphs_demo.py`: Representación visual del desempeño de ambos modelos.
+- `model_comparison.ipynb`: Comparación de modelos: el clasificador inicial y el clasificador reentrenado.
+- `graphs_demo.ipynb`: Representación visual del desempeño de ambos modelos.
 - `README.md`: Versión en inglés del README
 - `README.es.md`: Versión en español del README.
 
