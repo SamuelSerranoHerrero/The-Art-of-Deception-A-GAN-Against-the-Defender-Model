@@ -46,8 +46,8 @@ The project is structured into several stages:
 
 - `Classsifier_model.ipynb`: Dataset loading and preprocessing with the Initial binary classifier training.
 - `gan_model.ipynb`: Custom GAN training loop.
-- `model_comparison.py`: Comparison of models: the initial classifier and the retrained classifier.
-- `graphs_demo.py`: Visual representation of the performance of both models.
+- `model_comparison.ipynb`: Comparison of models: the initial classifier and the retrained classifier.
+- `graphs_demo.ipynb`: Visual representation of the performance of both models.
 - `README.md`: This file.
 - `README.es.md`: Spanish version of the README.
 
